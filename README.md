@@ -1,2 +1,2 @@
-# anyanikl_BSA_school21
+# Николаева Анна - business system analytic
 Учебные проекты, выполненные в школе 21.
